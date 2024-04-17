@@ -1,1 +1,1 @@
-https://htmlpreview.github.io/?https://github.com/nawatswatthong/timeseries_nyc_traffic/new/main/main.html
+https://htmlpreview.github.io/?https://github.com/nawatswatthong/timeseries_nyc_traffic/blob/main/main.html
